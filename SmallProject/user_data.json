@@ -1,0 +1,34 @@
+[
+    {
+        "firstname": "alaa",
+        "lastname": "sherif",
+        "email": "alaa@gmail.com",
+        "password": "159",
+        "phone": "01129084666",
+        "projects": [
+            {
+                "title": "Mean Stack",
+                "details": "i updates here",
+                "total_target": "6",
+                "start_time": "2024-10-25 14:30",
+                "end_time": "2024-11-29 18:38"
+            }
+        ]
+    },
+    {
+        "firstname": "omnia",
+        "lastname": "gad",
+        "email": "omnia@gmail.com",
+        "password": "741",
+        "phone": "01122508111",
+        "projects": []
+    },
+    {
+        "firstname": "emad ",
+        "lastname": "ezz",
+        "email": "emad@gmail.com",
+        "password": "555",
+        "phone": "01126333777",
+        "projects": []
+    }
+]
